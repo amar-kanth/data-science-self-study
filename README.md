@@ -22,4 +22,8 @@ This repository contains all my self-learning progress from top courses like IBM
 - Document learning with clarity  
 
 ---
+## Authors
+-[@amar-kanth](https://github.com/amar-kanth)
+## License
 
+[MIT License](LICENSE)
